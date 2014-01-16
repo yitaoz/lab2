@@ -10,7 +10,10 @@
 }
 
 .project {
-     margin-left: 20px;
+    margin-left: 20px;
+    background-color: #deebf7;
+    padding: 20px;
+    width: 525px;
 }
 
 /* this style exists to make it obvious that you've successfully linked
